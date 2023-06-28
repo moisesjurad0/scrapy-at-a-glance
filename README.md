@@ -13,3 +13,5 @@ Steps:
 1. and install it with `pip install -r requirements.txt`
 1. create file `quotes_spider.py`
 1. run the file using `scrapy runspider quotes_spider.py -o quotes.jsonl`
+    1. this will create the file `quotes.jsonl`
+1. END
